@@ -1,7 +1,7 @@
 # custom_linux_bindings
 
 ## Motivation:
-I had a highly configured system ubuntu system until recently when my system got corrupted.
+I had a highly configured ubuntu system until recently when my system got corrupted.
 As a result of that, I lost all of my customizations.
 To prevent anything like this from happening in the future,
 I am making this repo to add any custom bindings that I introduce in my shell.
