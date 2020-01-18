@@ -12,5 +12,5 @@ Don't worry, I got your back.
 What you need to do is make a folder in your new home directory named .custom_commands and clone this repo.
 After that, set your PATH to include this directory.
 The only thing left out is ssh keys and ssh config files for obvious reasons.
-Do the work of again configuring these files.
+Do the work of again configuring these files. <br/>
 -Aayush, from the past.
